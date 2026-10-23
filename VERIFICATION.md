@@ -5,4 +5,4 @@
 - Deterministic simulation suite: passed. Covers all five dropper tiers, three conveyor speed upgrades, walls, turret, hatchery, pet purchase, sabotage, three-tap rescue, checkpoint recovery, vent shortcut, treasure payout. Simulation controls are injected only by the test runner and are absent from production.
 - Screenshots: `tests/iphone-hub.png`, `tests/iphone-obby.png`.
 - Physical iOS Safari and sustained device performance: not tested in this environment. The renderer targets the display refresh rate using requestAnimationFrame; actual fps depends on the phone.
-- GitHub repository creation: attempted using the requested command; GitHub returned `GraphQL: Resource not accessible by integration (createRepository)`. No remote repository or live Pages URL was created. Local `main` commit and deployment workflow are ready.
+- Repository was created separately by the owner: https://github.com/reyesjo2453/crewmate-craft-pwa. Deployment uses the included GitHub Actions workflow.

@@ -20,7 +20,11 @@ gh repo create crewmate-craft-pwa --public --source=. --remote=origin
 git push -u origin main
 ```
 
-The live URL will be `https://YOUR-USERNAME.github.io/crewmate-craft-pwa/`. Never place credentials in this folder. The build environment's repository creation attempt was denied (`Resource not accessible by integration`), so no deployment URL is claimed.
+Repository: https://github.com/reyesjo2453/crewmate-craft-pwa
+
+Pages URL: https://reyesjo2453.github.io/crewmate-craft-pwa/
+
+Never place credentials in this folder.
 
 ## Local verification
 
